@@ -78,10 +78,6 @@ touch.on(document, "DOMContentLoaded", function(){
 * [PDF.js的API详细参数地址](http://mozilla.github.io/pdf.js/api/)
 * [touch.js的API详细参数地址](http://cloudajs.org/docs/step4_API_Documentation#h2_7)
 
-##更新日志
-* 2015年12月12日 在手机端实现双击放大缩小及页面体验上的优化。
-
-
 
 
 
